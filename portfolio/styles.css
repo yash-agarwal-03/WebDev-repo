@@ -1,0 +1,31 @@
+#a1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width: 100%;
+}
+#ah1{
+    font-family:cursive;
+    font-size:50px;
+    color: white;
+    margin-bottom: 0;
+    
+}
+#ah2{
+    font-size:25px;
+    color: white;
+    margin-top: 10px;
+    }
+#a2{
+    color: #ffffff;
+    background-color: #227882;
+    font-family: cursive;
+    font-size: x-large;
+    font-weight: 500;
+    text-align: left;
+    position: absolute;
+    right: 200px;
+    top: auto;
+    
+}
