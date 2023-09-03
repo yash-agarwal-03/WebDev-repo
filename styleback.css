@@ -10,12 +10,20 @@
     left: 100px;
     color: #fcbf49;
 }
+.a1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width: 100%;
+}
 #center1{
+    color: black;
     font-size: xx-large;
     font-weight: 600;
     position: absolute;
     top:350px;
-    left: 6700px;
+    left: 670px;
 }
 a{
     font-size: large;
