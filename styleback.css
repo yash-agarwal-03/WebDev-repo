@@ -1,0 +1,28 @@
+
+#c1{
+    text-align: left;
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: 500;
+    top: auto;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    color: #fcbf49;
+}
+#center1{
+    font-size: xx-large;
+    font-weight: 600;
+    position: absolute;
+    top:350px;
+    left: 6700px;
+}
+a{
+    font-size: large;
+    color:#eae2b7;
+    margin: 0px;
+}
+a:hover{
+    background-color: #ffe149;;
+    color: #003566;
+}
