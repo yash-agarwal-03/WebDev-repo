@@ -5,10 +5,13 @@
     font-weight: 500;
     top: auto;
     position: absolute;
-    top: 100px;
-    right: 200px;
+    top: 10%;
+    right: 10%;
     
     background-color: #22788268;
+}
+#homespan{
+    height: 80%;
 }
 #a1{
     position: absolute;
@@ -38,7 +41,7 @@ a{
     text-decoration: none;
     color: #44e6db;
     /* background-color: #227882; */
-    margin-right: 20px;
+    margin-right: 50px;
 }
 a:hover{
     background-color: #ffd60a;;
@@ -48,7 +51,102 @@ a:hover{
 #a4{
     text-align: left;
 }
+#afoot
+{
+    text-align: left;
+    font-family: cursive;
+    font-size: x-large;
+    font-weight: 500;
+    top: auto;
+    position: absolute;
+    bottom: 10%;
+    right: 34%;
+    
+    background-color: #22788268;
+}
 #mainid
 {
     color: #ffffff;
+}
+#eduhead{
+    text-align: center;
+    font-family: algerian;
+    font-size:1.5cm;
+    position: relative;
+    color: #fcbf49;
+    margin-bottom: 20px;
+}
+.eb1{
+    text-align: left;
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: 500;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    color: #fcbf49;
+}
+#e1{
+    text-align: left;
+}
+
+#e2{
+    margin-top: 10px;
+    color: rgb(210, 234, 255);
+    font-size: x-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ol{
+    margin: 0px;
+}
+#eh3
+{
+border: 0;
+margin: 0;
+padding: 0;
+}
+h5{
+    margin: 10px 0 0 0;
+    color: #ee964b;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#c1{
+    text-align: left;
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: 500;
+    top: auto;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    color: #fcbf49;
+}
+
+hr{
+    margin: 10px 0 10px 0;
+}
+#hr1{
+    position: relative;
+}
+#center1{
+    text-align: center;
+    font-family: algerian;
+    font-size: xx-large;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    color: #fcbf49;
+}
+
+#contacts{
+    position: relative;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
 }
